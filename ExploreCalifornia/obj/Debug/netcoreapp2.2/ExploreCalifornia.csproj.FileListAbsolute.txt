@@ -1,0 +1,70 @@
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.deps.json
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.runtimeconfig.json
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.runtimeconfig.dev.json
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.dll
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.pdb
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.Views.dll
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.Views.pdb
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.csprojAssemblyReference.cache
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.AssemblyInfoInputs.cache
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.AssemblyInfo.cs
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.csproj.CoreCompileInputs.cache
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorAssemblyInfo.cache
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorAssemblyInfo.cs
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.TagHelpers.input.cache
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.TagHelpers.output.cache
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorCoreGenerate.cache
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Post.cshtml.g.cs
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\MonthlySpecials\Default.cshtml.g.cs
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Post.cshtml.g.cs
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorTargetAssemblyInfo.cache
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorTargetAssemblyInfo.cs
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.Views.pdb
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.dll
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.pdb
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.genruntimeconfig.cache
+C:\Personal\AspNetCore\Linkedin2\Ex_Files_ASPNET_CoreMVC_Upd\Exercise Files\Ch06\06_04_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.csproj.CopyComplete
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.deps.json
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.runtimeconfig.json
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.runtimeconfig.dev.json
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.dll
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.pdb
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.Views.dll
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.Views.pdb
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.csprojAssemblyReference.cache
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.AssemblyInfoInputs.cache
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.AssemblyInfo.cs
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.csproj.CoreCompileInputs.cache
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorAssemblyInfo.cache
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorAssemblyInfo.cs
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.TagHelpers.input.cache
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.TagHelpers.output.cache
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorCoreGenerate.cache
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Create.cshtml.g.cs
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Post.cshtml.g.cs
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Components\MonthlySpecials\Default.cshtml.g.cs
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Post.cshtml.g.cs
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorTargetAssemblyInfo.cache
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorTargetAssemblyInfo.cs
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.Views.pdb
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.dll
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.pdb
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.genruntimeconfig.cache
+C:\Personal\AspNetCore\LearnAspNetCore_ExploringCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.csproj.CopyComplete
